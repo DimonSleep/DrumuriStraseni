@@ -186,12 +186,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.phpl">Tehnică Utilaja</a>
+								<a href="tehnica.phpl">Tehnică Utilaje</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoartet.php">Rapoarte - Transparență</a>

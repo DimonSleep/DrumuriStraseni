@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Drumuri Straseni</title>
+	<title>Drumuri Strășeni</title>
 	<link rel="shortcut icon" href="img/favicon.png" />
 
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -59,29 +59,26 @@
 
 				<!--  Main navigation  -->
 				<ul class="main-nav nav navbar-nav navbar-right">
-                <li><a href="index.php">Acasa</a></li>
+                <li><a href="index.php">Acasă</a></li>
                 <li class="has-dropdown"><a>Despre Noi</a>
                     <ul class="dropdown">
                         <li><a href="despre.php">Despre Noi </a></li>
                         <li><a href="organigrama.php">Organigrama</a></li>
                     </ul>
                 </li>
-                <li class="has-dropdown"><a>Anunturi</a>
+                <li class="has-dropdown"><a>Anunțuri</a>
                     <ul class="dropdown">
-                        <li><a href="drumuribune.php">Drumuri Bune pentru Moldova</a></li>
-                        <li><a href="https://www.asd.md/informatii-drumuri/" target="_blank">Infrastructura Drumuri R.M</a></li>
+					<li><a href="anunturi.php">Anunțuri Publice</a></li>
+                        <li><a href="infrastructura.php">Infrastructura Drumuri R.M</a></li>
                     </ul>
                 </li>
                 <li class="has-dropdown"><a >Informații Utile</a>
                     <ul class="dropdown">
-                        <li><a href="anticoruptie.php">Anticorupția</a></li>
-                           <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
+					<li><a href="anticoruptie.php">Anticorupția</a></li>
+                         <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
                         <li><a href="rapoarte.php">Rapoarte - Transparență</a></li>
-                        <li><a href="costructiiI.php">Construcții Inginerești</a></li>
-                            <li><a href="reparatieD.php">Reparație Drumuri</a></li>
-                        <li><a href="intretinereD.php">Întreținere Drumuri</a></li>
-                        <li><a href="tehnica.php">Tehnica Utilaje</a></li>
-                        <li><a href="sectoare.php">Sectoare S.A Drumuri Straseni</a></li>
+                        <li><a href="intretinereD.php">Lucrări de reparație și întreținere a drumurilor</a></li>
+                        <li><a href="tehnica.php">Dotare tehnică a societății</a></li>
                     </ul>
                 </li>
                 <li><a href="galerie.php">Galerie</a></li>
@@ -104,7 +101,7 @@
 					<!-- home content -->
 					<div class="col-md-10 col-md-offset-1">
 						<div class="home-content">
-							<h2 class="white-text">S.A. Drumuri-Strășeni,<br> Siguranța la trafic înseamna <font style="color:#A5CD38"> Viață</font>!</h1>
+							<h2 class="white-text">S.A. Drumuri-Strășeni,<br> Siguranța la trafic înseamnă <font style="color:#A5CD38"> Viață</font>!</h1>
 							<p class="white-text" style="color:#A5CD38" >Din 1968 suntem alături de tine.</p>
 							
 						</div>
@@ -139,8 +136,8 @@
 				<div>
 					<div class="about">
 						<i class="fa fa-info-circle"></i>
-						<h3>Informatii despre noi</h3>
-						<p  >S.A.”Drumuri –Străşeni” este o intreprindere cu un istoric bogat,<br>
+						<h3>Informații despre noi</h3>
+						<p  >S.A.”Drumuri –Străşeni” este o întreprindere cu un istoric bogat,<br>
 							 deoarece activează din anul  1968, mai bine de 50 de ani.</p>
 							 <a href="despre.php" >Mai mult</a>
 					</a>
@@ -192,7 +189,7 @@
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Sezonul de iarnă: lucrări de combatere a poleiului şi gheţuşului, deszăpezirea drumurilor.</p>
+							<p>Sezonul de iarnă:</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
@@ -206,7 +203,7 @@
 						
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Lucrări permanente de îmbunătăţire a aspectului estetic a drumurilor: - salubrizare, colectarea deseiurilor, depunerilor şi diferitor obiecte din zona drumurilor, cositul manual si mecanizat al vegetatiei din preajma  drumurilor, întreţinerea fîşiilor forestiere.</p>
+							<p>Lucrări permanente de îmbunătăţire a aspectului estetic a drumurilor: - salubrizare în zona drumurilor deservite, cositul manual si mecanizat al vegetatiei din preajma  drumurilor, întreţinerea fîşiilor forestiere.</p>
 						</div>
 						
 					</div>
@@ -332,7 +329,7 @@
 					<div class="number">
 						<i class="fa fa-road"></i>
 						<h3 class="white-text"><span class="counter">548,5 km</span></h3>
-						<span class="white-text">Drumuri Nationale</span>
+						<span class="white-text">Drumuri Naționale</span>
 					</div>
 				</div>
 				<!-- /number -->
@@ -460,17 +457,17 @@
 						</div>
 						<ul class="price-content">
 							<li>
-								<p>Corectare denivelari in imbracamintea rutiera</p>
+								<p>Corectare denivelari în îmbracamintea rutiera</p>
 							</li>
 							<li>
-								<p>Imbunatatire aderenta suprafata carosabila</p>
+								<p>Îmbunatatire aderenta suprafata carosabilă</p>
 							</li>
 							<li>
-								<p>Decapare succesiva straturi imbracaminte rutiera</p>
+								<p>Decapare succesiva straturi îmbracaminte rutiera</p>
 							</li>
 							<li>
 								<li>
-									<p>Decapare succesiva straturi imbracaminte rutiera</p>
+									<p>Decapare succesiva straturi îmbracaminte rutiera</p>
 								</li>
 							</li>
 						</ul>
@@ -509,6 +506,26 @@
 				<!-- Testimonial slider -->
 				<div class="col-md-10 col-md-offset-1">
 					<div id="testimonial-slider" class="owl-carousel owl-theme">
+	<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/APP.png" alt="">
+								<h3 class="white-text">Agenția Proprietății Publice</h3>
+								<span><a href="https://app.gov.md"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+	<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/MIDR.png" alt="">
+								<h3 class="white-text">MINISTERUL INFRASTRUCTURII ȘI DEZVOLTĂRII REGIONALE</h3>
+								<span><a href="https://midr.gov.md/ro"  target="_blank"> Mai Mult</a></span>
+							</div>
+						
+						</div>
 
 						<!-- testimonial -->
 						<div class="testimonial">
@@ -521,12 +538,53 @@
 						</div>
 						<!-- /testimonial -->
 
-						<!-- testimonial -->
+					<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<img src="./img/APP.png" alt="">
-								<h3 class="white-text">Agenția Proprietății Publice</h3>
-								<span><a href="https://app.gov.md"  target="_blank"> Mai Mult</a></span>
+								<img src="./img/OFM.png" alt="">
+								<h3 class="white-text">Oficiul Forței de Muncă</h3>
+								<span><a href="https://anofm.md/ro/subdiviziuni#"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+					<!-- testimonial -->
+							<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/stem.jpeg" alt="">
+								<h3 class="white-text">CR Strășeni</h3>
+								<span><a href="http://www.crstraseni.md/index.php?l=ro"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+<!-- testimonial -->
+													<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CRS.jpeg" alt="">
+								<h3 class="white-text">Primăria Strășeni</h3>
+								<span><a href="http://www.straseni.md/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+<!-- testimonial -->
+							<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CRC1.jpeg" alt="">
+								<h3 class="white-text">CR Călărași</h3>
+								<span><a href="https://www.calarasi.md/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+<!-- testimonial -->
+							<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CRC.jpeg" alt="">
+								<h3 class="white-text">Primăria Călărași</h3>
+								<span><a href="http://calarasi-primaria.md/"  target="_blank"> Mai Mult</a></span>
 							</div>
 							
 						</div>
@@ -535,12 +593,25 @@
 						<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<img src="./img/MIDR.png" alt="">
-								<h3 class="white-text">MINISTERUL INFRASTRUCTURII ȘI DEZVOLTĂRII REGIONALE</h3>
-								<span><a href="https://midr.gov.md/ro"  target="_blank"> Mai Mult</a></span>
+								<img src="./img/CRU1.jpeg" alt="">
+								<h3 class="white-text">CR Ungheni</h3>
+								<span><a href="http://www.crungheni.md/conducerea-raionului/primarii/"  target="_blank"> Mai Mult</a></span>
 							</div>
-						
+							
 						</div>
+						<!-- /testimonial -->
+
+                    <!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CRU.jpeg" alt="">
+								<h3 class="white-text">Primaria Ungheni</h3>
+								<span><a href="http://ungheni.md/page/155/?option=com_content&view=article&id=90&Itemid=94#"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
 
 						<div class="testimonial">
 							<div class="testimonial-meta">
@@ -551,6 +622,53 @@
 							
 						</div>
 						<!-- /testimonial -->
+
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/INCERCOM.jpeg" alt="">
+								<h3 class="white-text">INCERCOM</h3>
+								<span><a href="http://www.incercom.md/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/UTM.png" alt="">
+								<h3 class="white-text">UTM</h3>
+								<span><a href="https://utm.md/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CCC.png" alt="">
+								<h3 class="white-text">Centrul de Excelență în Construcții. </h3>
+								<span><a href="http://ccc.md/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+						<!-- testimonial -->
+						<div class="testimonial">
+							<div class="testimonial-meta">
+								<img src="./img/CET.png" alt="">
+								<h3 class="white-text">Centrul de Excelență în Transporturi. </h3>
+								<span><a href="https://cetauto.md/ro/"  target="_blank"> Mai Mult</a></span>
+							</div>
+							
+						</div>
+						<!-- /testimonial -->
+
+						
 
 					</div>
 				</div>
@@ -582,7 +700,7 @@
 
 				<!-- Section header -->
 				<div class="section-header text-center">
-					<h2 class="title">Anunturi</h2>
+					<h2 class="title">Anunțuri</h2>
 				</div>
 				<!-- /Section header -->
 
@@ -594,9 +712,9 @@
 						</div>
 						<div class="blog-content">
 							
-							<h3>S.A. Straseni <br>Angajeaza </h3>
-							<p>Angajam ingineri, lacatusi auto</p>
-							<a href="index.php"><font style="color: #A5CD38;" >Mail mult</font></a>
+							<h3>S.A. Strășeni <br>Angajează </h3>
+							<p>Angajam ingineri, lăcătuși auto</p>
+							<a href="index.php"><font style="color: #A5CD38;" >Mai mult</font></a>
 						</div>
 					</div>
 				</div>
@@ -610,9 +728,9 @@
 						</div>
 						<div class="blog-content">
 							
-							<h3>S.A. Straseni Anunta Finisarea </h3>
-							<p>Strada X este gata</p>
-							<a href="index.php"><font style="color: #A5CD38;" >Mail mult</font></a>
+							<h3>S.A. Strășeni Anunță Finisarea </h3>
+							<p>Strada Stefan cel Mare este gata</p>
+							<a href="index.php"><font style="color: #A5CD38;" >Mai mult</font></a>
 						</div>
 					</div>
 				</div>
@@ -626,9 +744,9 @@
 						</div>
 						<div class="blog-content">
 							
-							<h3>S.A. Straseni Anunta <br>Lucrari </h3>
-							<p>Lucrari pe strada Y</p>
-							<a href="index.php"><font style="color: #A5CD38;" >Mail mult</font></a>
+							<h3>S.A. Strășeni Anunță <br>Lucrări </h3>
+							<p>Lucrări pe strada Stefan cel Mare</p>
+							<a href="index.php"><font style="color: #A5CD38;" >Mai mult</font></a>
 						</div>
 					</div>
 				</div>

@@ -99,7 +99,7 @@
 				<div class="number">
 					<i class="fa fa-road"></i>
 					<h3 class="white-text"><span class="counter">548,5 km</span></h3>
-					<span class="white-text">Drumuri Nationale</span>
+					<span class="white-text">Drumuri Naționale</span>
 				</div>
 			</div>
 			<!-- /number -->
@@ -234,12 +234,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaja</a>
+								<a href="tehnica.php">Tehnică Utilaje</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoarett.php">Rapoarte - Transparență</a>

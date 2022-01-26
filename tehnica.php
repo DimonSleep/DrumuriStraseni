@@ -44,10 +44,10 @@
 <!-- Why Choose Us -->
 <div id="features" class="section md-padding ">
 	<center>
-<h3>S.A.Drumuri-Straseni are parcul tehnicv dotat cu un spectru larg de mecanizsme:</h3> 
+<h3>S.A.Drumuri-Strășeni are parcul tehnicv dotat cu un spectru larg de mecanizsme:</h3> 
 <p>	1.Compactoare; <br>2.Tractoare cu diferite utilaje;<br> 3.Freze de frezat asfalt;<br>4.Autogreidere;<br>5.Tocător pentru crengi;<br>6.Camioane- pentru transportarea materialelor inerte:<br>7.Lipe manual;<br>8.Trimere;<br>9.Motoferestrăie;<br>10.Autoturisme pentru deplasarea muncitorilor;
 	<br>
-	SA Drumuri Strășeni dispune de propria  uzină de beton asfaltic. beton asfaltic. <br> Datorită acestui fapt în anul 2016 înteprinderea S.A. ”Drumuri-Straseni”  a inregistrat o activitate cu indicatori pozitivi. 
+	SA Drumuri Strășeni dispune de propria  uzină de beton asfaltic.<br> Datorită acestui fapt în anul 2016 înteprinderea S.A. ”Drumuri-Strășeni”  a înregistrat o activitate cu indicatori pozitivi. 
 	<p>
 	</center>
 		<br>
@@ -60,9 +60,9 @@
 				</div>
 				<p>Noul JCB 4CX ECO este proiectat pentru lucrări destul de grele. 
 						<br>
-					Buldoexcavatorul JCB 4CX ECO pa baza sa, foloseste tehnologia JCB EcoRoad, ce asigură eficiența și productivitatea maximă atunci când il veti expluata. Tehnologia brevetată JCB TorqueLock (blocul convertor este folosit pentru prima dată în lume, pentru excavator-loader). Sistemul EcoRoad reduce consumul de combustibil cu până la 25%. Redicind astfel productivitatea, cu circa 10%.
+					Buldoexcavatorul JCB 4CX ECO pa baza sa, folosește tehnologia JCB EcoRoad, ce asigură eficiența și productivitatea maximă atunci când îl veți expluata. Tehnologia brevetată JCB TorqueLock (blocul convertor este folosit pentru prima dată în lume, pentru excavator-loader). Sistemul EcoRoad reduce consumul de combustibil cu până la 25%. Redicând astfel productivitatea, cu circa 10%.
 					<br>
-					O altă caracteristică a mașină JCB 4CX Eco, este controlerul al vitezei hidraulică (HSC), ce deconectează automat prima pompă hidraulică la accesarea a 4 roată. Datorita acestui caz, cunsumul combustibelului se reduce, cu un procent mare. 
+					O altă caracteristică a mașinii JCB 4CX Eco, este controlerul al vitezei hidraulică (HSC), ce deconectează automat prima pompă hidraulică la accesarea a 4 roată. Datorita acestui caz, cunsumul combustibelului se reduce, cu un procent mare. 
 					<br>
 					Și, cel mai important, pentru a asigura performanța optimă a acestui buldoexcavator JCB, a fost special dezvoltată o centrală cu motor Dieselmax.
 					<br>
@@ -205,7 +205,7 @@
 				<div class="col-md-6">
 					<br> <br> <br> <br> <br> <br> <br>
 					<div class="section-header">
-						<h2 class="title">Autospeciala care imprastie nisip</h2>
+						<h2 class="title">Autospecială care împrăștie nisip</h2>
 					</div>
 			</div>
 				<!-- /why choose us content -->
@@ -221,7 +221,7 @@
 				
 					<div class="section-header">
 						 <br> <br> <br> <br> <br> <br> <br>
-						<h2 class="title">Transport pentru lucratori</h2>
+						<h2 class="title">Transport pentru lucrători</h2>
 					</div>
 				</div>
 				<!-- /why choose us content -->
@@ -357,7 +357,7 @@
 					
 						<div class="section-header">
 							 <br> <br> <br> <br> <br> <br> <br> 
-							<h2 class="title">Tractor cu incarcator (MTZ 82.1) </h2>
+							<h2 class="title">Tractor cu încarcator (MTZ 82.1) </h2>
 						</div>
 					</div>
 					<!-- /why choose us content -->
@@ -450,12 +450,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaja</a>
+								<a href="tehnica.php">Tehnică Utilaje</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoarett.php">Rapoarte - Transparență</a>

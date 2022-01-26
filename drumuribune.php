@@ -137,7 +137,7 @@
 <br>
 <br>
 <div class="container">
-	<center><p>Cerceteaza  <a href="Drumuri_Bune.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">Drumuri Bune</font></i></a>.</p></center>
+	<center><p>Cercetează  <a href="Drumuri_Bune.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">Drumuri Bune</font></i></a>.</p></center>
 </div>
 <!-- Contact -->
 <div id="contact" class="section md-padding">

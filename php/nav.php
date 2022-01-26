@@ -21,29 +21,29 @@
 
             <!--  Main navigation  -->
             <ul class="main-nav nav navbar-nav navbar-right">
-                <li><a href="index.php">Acasa</a></li>
+                <li><a href="index.php">Acasă</a></li>
                 <li class="has-dropdown"><a>Despre Noi</a>
                     <ul class="dropdown">
                         <li><a href="despre.php">Despre Noi </a></li>
                         <li><a href="organigrama.php">Organigrama</a></li>
                     </ul>
                 </li>
-                <li class="has-dropdown"><a>Anunturi</a>
+                <li class="has-dropdown"><a>Anunțuri</a>
                     <ul class="dropdown">
-                        <li><a href="drumuribune.php">Drumuri Bune pentru Moldova</a></li>
-                        <li><a href="https://www.asd.md/informatii-drumuri/" target="_blank">Infrastructura Drumuri R.M</a></li>
+                        <li><a href="anunturi.php">Anunțuri Publice</a></li>
+                        <li><a href="infrastructura.php" >Infrastructură Drumuri R.M</a></li>
                     </ul>
                 </li>
                 <li class="has-dropdown"><a>Informații Utile</a>
                     <ul class="dropdown">
                         <li><a href="anticoruptie.php">Anticorupția</a></li>
-                           <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
+                         <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
                         <li><a href="rapoarte.php">Rapoarte - Transparență</a></li>
-                        <li><a href="costructiiI.php">Construcții Inginerești</a></li>
-                            <li><a href="reparatieD.php">Reparație Drumuri</a></li>
-                        <li><a href="intretinereD.php">Întreținere Drumuri</a></li>
-                        <li><a href="tehnica.php">Tehnica Utilaje</a></li>
-                        <li><a href="sectoare.php">Sectoare S.A Drumuri Straseni</a></li>
+                      
+                   
+                        <li><a href="intretinereD.php">Lucrări de reparație și întreținere a drumurilor</a></li>
+                        <li><a href="tehnica.php">Dotare tehnică a societății</a></li>
+                    
                     </ul>
                 </li>
                 <li><a href="galerie.php">Galerie</a></li>

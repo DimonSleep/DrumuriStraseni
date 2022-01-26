@@ -63,12 +63,9 @@
                                     <div class="container">
             <center>
                                         <h3>S.A.”Drumuri Străşeni” </h3>
-										<p><a href="anunt_de_participare_cop_servicii.estimare_17.04.2020.signed.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">anunt_de_participare_cop_servicii.estimare_17.04.2020.signed.pdf</font></i></a>.
-												<br>
-											<a href="documentatia_standard_cop_servicii.estimare_17.04.2020.signed.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">documentatia_standard_cop_servicii.estimare_17.04.2020.signed.pdf</font></i>	
-												<br>
-											<a href="duae_cop_servicii.estimare_17.04.2020.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">duae_cop_servicii.estimare_17.04.2020.pdf</font></i>
-            							</p>
+										<p>
+											
+										</p>
                                     </div>
 
 			</div>
@@ -172,12 +169,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
 								<a href="tehnica.php">Tehnică Utilaja</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoarett.php">Rapoarte - Transparență</a>

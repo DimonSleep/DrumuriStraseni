@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Drumuri Straseni</title>
+	<title>Drumuri Strășeni</title>
 	<link rel="shortcut icon" href="img/favicon.png" />
 
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
@@ -78,7 +78,7 @@
 						<div class="blog-content">
 
 							<h3>Situația Financiară S.A. Drumuri Strășeni.</h3>
-							<p>Aici poți cerceta Situația Financiară <br><a href="SITUAȚIA FINANCIARA  ANUL 2020.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">SITUAȚIA FINANCIARA  ANUL 2021.pdf</font></i></a>.</p>
+							<p>Aici poți cerceta Situația Financiară <br><a href="SITUAȚIA FINANCIARA  ANUL 2020.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">SITUAȚIA FINANCIARA  ANUL 2020.pdf</font></i></a>.</p>
 						</div>
 
 
@@ -101,12 +101,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaja</a>
+								<a href="tehnica.php">Tehnică Utilaje</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoarett.php">Rapoarte - Transparență</a>

@@ -50,7 +50,7 @@
 		<!-- header wrapper -->
 		<div class="header-wrapper sm-padding bg-grey">
 			<div >
-				<center><h2>Anticoruptia</h2></center>
+				<center><h2>Anticorupția</h2></center>
 
 
                 <div id="blog" class="section md-padding">
@@ -61,7 +61,7 @@
             
                                     <div class="container">
             <center>
-                                        <h3>S.A.”Drumuri Străşeni” Anticoruptia</h3>
+                                        <h3>S.A.”Drumuri Străşeni” Anticorupția</h3>
                                         <p>
                                             
              
@@ -186,12 +186,12 @@
 						</div>
 
 						<div class="widget">
-							<h3 class="title">Informatii Utile</h3>
+							<h3 class="title">Informații Utile</h3>
 							<div class="widget-category">
 								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaja</a>
+								<a href="tehnica.php">Tehnică Utilaje</a>
 								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
+								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
 								<a href="costructiiI.php">Construcții Inginerești</a>
 								<a href="anticoruptie.php">Anticorupția</a>
 								<a href="rapoarett.php">Rapoarte - Transparență</a>
