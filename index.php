@@ -351,7 +351,7 @@
 				<div class="col-sm-3 col-xs-6">
 					<div class="number">
 						<i class="fa fa-map-signs"></i>
-						<h3 class="white-text"><span class="counter">179,4 km</span>K</h3>
+						<h3 class="white-text"><span class="counter">179,4 km</span></h3>
 						<span class="white-text">Călărași</span>
 					</div>
 				</div>

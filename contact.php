@@ -56,7 +56,7 @@
                     <div class="phone details">
                       <i class="fas fa-phone-alt"></i>
                       <div class="topic">Telefon</div>
-                      <div class="text-one">+37323722617</div>
+                      <div class="text-one">+37323722671</div>
                    
                     </div>
                     <div class="email details">
@@ -86,6 +86,65 @@
                 </div>
                 </div>
               </div>
+              	<!-- Contact -->
+	<div id="contact" class="section md-padding">
+
+<!-- Container -->
+<div class="container">
+
+  <!-- Row -->
+  <div class="row">
+
+    <!-- Section-header -->
+    <div class="section-header text-center">
+      <h2 class="title">Districte</h2>
+    </div>
+    <!-- /Section-header -->
+
+    <!-- contact -->
+    <div class="col-sm-4">
+      <div class="contact">
+      <i class="fa fa-map-marker"></i>
+        <h3>Strășeni</h3>
+        <p>Str.Orheiului nr.1
+          <br> 023722671</p>
+      </div>
+    </div>
+    <!-- /contact -->
+
+    <!-- contact -->
+    <div class="col-sm-4">
+      <div class="contact">
+      <i class="fa fa-map-marker"></i>
+        <h3>Călărași</h3>
+        <p>Str. Vasile Alexandri 1
+          <br> 024422388
+        </p>
+      </div>
+    </div>
+    <!-- /contact -->
+
+    <!-- contact -->
+    <div class="col-sm-4">
+      <div class="contact">
+        <i class="fa fa-map-marker"></i>
+        <h3>Ungheni</h3>
+        <p>Str.Industriala 3<br>
+        023625332 
+        </p>
+      </div>
+    </div>
+    <!-- /contact -->
+
+
+  </div>
+  <!-- /Row -->
+
+</div>
+<!-- /Container -->
+
+</div>
+<!-- /Contact -->
 		</div>
 		<!-- /header wrapper -->
 
