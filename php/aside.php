@@ -27,7 +27,7 @@
 						<div class="widget-category">
 							<a href="contact.php">Contacte</a>
 						</div>    
-						
+				    </div>
 				<div class="container">
 
 			<!-- Row --
