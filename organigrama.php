@@ -60,28 +60,12 @@
 					</div>
 				</main>
 				<!-- /Main -->
-				<!-- Aside -->
-				<aside id="aside" class="col-md-3">
-					<div class="widget">
-						<h3 class="title">Anunțuri</h3>
-						<div class="widget-category">
-							<a href="drumuribune.php">Drumuri bune pentru Moldova </a>
-							<a href="infrastructurad.php">Infrastructură drumuri M.D.</a>
-						</div>
-						<div class="widget">
-							<h3 class="title">Informații Utile</h3>
-							<div class="widget-category">
-								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaje</a>
-								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Strășeni</a>
-								<a href="costructiiI.php">Construcții Inginerești</a>
-								<a href="anticoruptie.php">Anticorupția</a>
-								<a href="rapoarett.php">Rapoarte - Transparență</a>
-								<a href="achizitiimonitorizare.php">Achiziții Monitorizare</a>
-							</div>
-				</aside>
+					<!-- Aside -->
+					<?php
+   include('./php/aside.php');
+   ?>
 				<!-- /Aside -->
+
 			</div>
 			<!-- /Row -->
 		</div>
