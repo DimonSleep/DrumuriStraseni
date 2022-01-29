@@ -8,7 +8,7 @@
 					<div class="widget">
 						<h3 class="title">Anunțuri</h3>
 						<div class="widget-category">
-							<a href="drumuribune.php">Drumuri bune pentru Moldova </a>
+							<a href="anunturi.php">Anunțuri Publice</a>
 							<a href="infrastructurad.php">Infrastructură drumuri M.D.</a>
 
 						</div>
@@ -16,15 +16,16 @@
 						<div class="widget">
 							<h3 class="title">Informatii Utile</h3>
 							<div class="widget-category">
-								<a href="reparatieD.php">Reparație drumuri </a>
-								<a href="tehnica.php">Tehnică Utilaja</a>
-								<a href="intretinereD.php">Întreținere Drumuri</a>
-								<a href="secroare.php">Sectoare S.A Drumuri Straseni</a>
-								<a href="costructiiI.php">Construcții Inginerești</a>
-								<a href="anticoruptie.php">Anticorupția</a>
-								<a href="rapoartet.php">Rapoarte - Transparență</a>
-								<a href="achizitiimonitorizare.php">Achiziții Monitorizare</a>
-							</div>
+                                <a href="anticoruptie.php">Anticorupția</a>
+                                <a href="achizitiimonitorizare.php">Achiziții Monitorizare</a>
+                                <a href="rapoarte.php">Rapoarte - Transparență</a>
+                                <a href="intretinereD.php">Lucrări de Reparație și Întreținere a Drumurilor </a>
+								<a href="tehnica.php">Dorare Tehnică a Societății</a>	
+                            </div>
+                            <h3 class="title">Contacte</h3>
+						<div class="widget-category">
+							<a href="contact.php">Contacte</a>
+						</div>    
 						
 				<div class="container">
 
