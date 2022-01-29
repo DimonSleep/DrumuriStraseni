@@ -28,31 +28,10 @@
 							<a href="contact.php">Contacte</a>
 						</div>    
 				    </div>
-				<div class="container">
-
-			<!-- Row --
-			<div class="row">
-				<!-- blog 
-				<div class="widget">
-					<h3 class="title">Galerie</h3>
-				</div>
-				<div class="col-md-4">
-					<div class="blog">
-						<div class="blog-img">
-							<img class="img-responsive" src="./img/17.jpeg" alt="">
-						</div>
-						<div class="blog-content">
-							<a href="galerie.html"><fonnt style="color: black;">Mail mult</fonnt></a>
-						</div>
-					</div>
-				</div>
-
-				<!-- /blog -->
-					</div>
+				
 				
 
-			
-					<!-- /Category -->
+
 
 
 				</aside>
