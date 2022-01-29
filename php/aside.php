@@ -22,6 +22,7 @@
                                 <a href="intretinereD.php">Lucrări de Reparație și Întreținere a Drumurilor </a>
 								<a href="tehnica.php">Dorare Tehnică a Societății</a>	
                             </div>
+                            <br>
                             <h3 class="title">Contacte</h3>
 						<div class="widget-category">
 							<a href="contact.php">Contacte</a>
