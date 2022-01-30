@@ -69,18 +69,19 @@
                   <div class="right-side">
                     <div class="topic-text">Trimitene un mesaj</div>
                     <p>Daca aveti nevoie de informatii suplimentare sau aveti intrebari contactatine.</p>
-                  <form action="#">
+
+                  <form action="./mail.php" method="post" id="contact-form">
                     <div class="input-box">
-                      <input type="text" placeholder="Nume">
+                      <input  type="text"  name="name" placeholder="Nume">
                     </div>
                     <div class="input-box">
-                      <input type="text" placeholder=" Email">
+                      <input type="email"  name="email" placeholder=" Email">
                     </div>
                     <div class="input-box message-box">
-                      
+                    <input type="message" placeholder=" mesaj"> 
                     </div>
                     <div class="button">
-                      <input type="button" value="Trimite mesajul" >
+                     <button type="submit"> <input  type="button" value="Trimite mesajul" ></button>
                     </div>
                   </form>
                 </div>
