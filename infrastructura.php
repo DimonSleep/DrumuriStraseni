@@ -24,7 +24,7 @@
 		<!-- header wrapper -->
 		<div class="header-wrapper sm-padding bg-grey">
 			<div >
-				<center><h2>Organigrama</h2></center>
+				<center><h2>Infrastructura S. A. Drumuri-Strășeni</h2></center>
 			</div>
 		</div>
 		<!-- /header wrapper -->
