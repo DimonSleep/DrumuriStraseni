@@ -134,14 +134,26 @@
  			demolarea construcțiilor dezafectate.
  </p>
 		</div>
-		<!-- /why choose us content -->
-		<!-- About slider -->
-		<br> <br> <br> <br> 
-		<div class="col-md-6">
-			<div id="about-slider" class="owl-theme">
-				<img class="img-responsive" src="./img/th3.jpg" alt="">
+		<div class="section-header">
+				<h2 class="title">Buldozer</h2>
 			</div>
-		</div>
+			<p>Buldozerul este o mașină de lucru, folosită în construcții și drumuri la lucrări de terasamente pentru săparea și nivelarea terenurilor, pentru transportarea pe distanțe mici a pământului, deszăpezirea șoselelor etc. Buldozerul este constituit dintr-un tractor pe șenile, care are montată în fața sa o lamă puternică de oțel; cu ajutorul acesteia, buldozerul taie straturi de pământ până la 20 cm grosime, pe care îl și împinge pe o anumită distanță, putând realiza astfel și o nivelare a terenului.
+			<br>
+			Un buldozer este un utilaj de construcții care poate fi utilizat la următoarele lucrări:
+ 			pregătirea terenului;
+ 			curățarea de tufișuri;
+ 			doborârea arborilor cu dimensiuni mijlocii;
+ 			scoaterea cioatelor și a bolovanilor;
+ 			îndepărtarea stratului de pământ vegetal și a vegetației erbacee;
+ 			săparea pământului însoțită de deplasarea sa laterală (săpături în debleu sau în profil mixt, săparea și profilarea șanțurilor și a taluzurilor) sau împingerea frontală a pământului pe distanțe sub 100 de metri;
+ 			astuparea șanțurilor și nivelarea grosieră a terenurilor;
+ 			lucrări în cariere și balastiere:
+ 			decopertare;
+ 			strângerea în grămezi a agregatelor (nisip, balast, pietriș, piatră spartă);
+ 			întreținerea drumurilor;
+ 			îndepărtarea zăpezii, nivelare, scarificare;
+ 			demolarea construcțiilor dezafectate.
+ </p>
 	</div>
 	<!-- /Row -->
 	</div>
