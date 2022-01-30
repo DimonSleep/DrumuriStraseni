@@ -67,7 +67,7 @@
 			</div>
 			<!-- /why choose us content -->
 			<!-- About slider -->
-			<br> <br> <br> 
+
 			<div class="col-md-6">
 				<div class="section-header">
 					<h2 class="title">Achizitii realizate</h2>
