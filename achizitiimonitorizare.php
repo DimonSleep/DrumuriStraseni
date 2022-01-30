@@ -52,20 +52,29 @@
 		<div class="header-wrapper sm-padding bg-grey">
 			<div >
 				<center><h2>Achiziții Monitorizare</h2></center>
-
-
-                <div id="blog" class="section md-padding">
+		      <div id="blog" class="section md-padding">
 
                     <!-- Container -->
+                    <div class="container">            
                     <div class="container">
-            
-            
-                                    <div class="container">
-            <center>
-                                        <h3>S.A.”Drumuri Străşeni” </h3>
-										<p>
-											
-										</p>
+					<div class="row">
+			<!-- why choose us content -->
+			<div class="col-md-6">
+				<div class="section-header">
+					<h2 class="title">Achizitii planificate</h2>
+				</div>
+					<p>1.<br>2.<br>3.<br></p>	
+			</div>
+			<!-- /why choose us content -->
+			<!-- About slider -->
+			<br> <br> <br> 
+			<div class="col-md-6">
+				<div class="section-header">
+					<h2 class="title">Achizitii realizate</h2>
+				</div>
+					<p>1.<br>2.<br>3.<br></p>	
+			</div>
+		</div>
                                     </div>
 
 			</div>
