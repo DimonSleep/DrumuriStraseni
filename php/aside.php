@@ -9,7 +9,7 @@
 						<h3 class="title">Anunțuri</h3>
 						<div class="widget-category">
 							<a href="anunturi.php">Anunțuri Publice</a>
-							<a href="infrastructurad.php">Infrastructură drumuri M.D.</a>
+							<a href="infrastructurad.php">Infrastructură Drumuri </a>
 
 						</div>
 
