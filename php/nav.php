@@ -37,7 +37,7 @@
                 <li class="has-dropdown"><a>Informații Utile</a>
                     <ul class="dropdown">
                         <li><a href="anticoruptie.php">Anticorupția</a></li>
-                         <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
+                         <li><a href="achizitiimonitorizare.php">Achiziții</a></li>
                         <li><a href="rapoarte.php">Rapoarte - Transparență</a></li>
                       
                    

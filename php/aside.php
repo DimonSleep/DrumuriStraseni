@@ -17,7 +17,7 @@
 							<h3 class="title">Informatii Utile</h3>
 							<div class="widget-category">
                                 <a href="anticoruptie.php">Anticorupția</a>
-                                <a href="achizitiimonitorizare.php">Achiziții Monitorizare</a>
+                                <a href="achizitiimonitorizare.php">Achiziții</a>
                                 <a href="rapoarte.php">Rapoarte - Transparență</a>
                                 <a href="intretinereD.php">Lucrări de Reparație și Întreținere a Drumurilor </a>
 								<a href="tehnica.php">Dorare Tehnică a Societății</a>	

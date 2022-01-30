@@ -51,7 +51,7 @@
 		<!-- header wrapper -->
 		<div class="header-wrapper sm-padding bg-grey">
 			<div >
-				<center><h2>Achiziții Monitorizare</h2></center>
+				<center><h2>Achiziții</h2></center>
 		      <div id="blog" class="section md-padding">
 
                     <!-- Container -->

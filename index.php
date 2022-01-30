@@ -75,7 +75,7 @@
                 <li class="has-dropdown"><a >Informații Utile</a>
                     <ul class="dropdown">
 					<li><a href="anticoruptie.php">Anticorupția</a></li>
-                         <li><a href="achizitiimonitorizare.php">Achiziții Monitorizare</a></li>
+                         <li><a href="achizitiimonitorizare.php">Achiziții</a></li>
                         <li><a href="rapoarte.php">Rapoarte - Transparență</a></li>
                         <li><a href="intretinereD.php">Lucrări de reparație și întreținere a drumurilor</a></li>
                         <li><a href="tehnica.php">Dotare tehnică a societății</a></li>
