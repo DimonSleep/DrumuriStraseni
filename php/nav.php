@@ -31,7 +31,7 @@
                 <li class="has-dropdown"><a>Anunțuri</a>
                     <ul class="dropdown">
                         <li><a href="anunturi.php">Anunțuri Publice</a></li>
-                        <li><a href="infrastructura.php" >Infrastructură Drumuri R.M</a></li>
+                        <li><a href="infrastructura.php" >Infrastructură Drumuri</a></li>
                     </ul>
                 </li>
                 <li class="has-dropdown"><a>Informații Utile</a>
