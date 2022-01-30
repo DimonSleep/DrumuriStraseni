@@ -61,7 +61,7 @@
 			<!-- why choose us content -->
 			<div class="col-md-6">
 				<div class="section-header">
-					<h2 class="title">Achizitii planificate</h2>
+					<center><h2 class="title">Planificate</h2></center>
 				</div>
 					<p>1.<br>2.<br>3.<br></p>	
 			</div>
@@ -70,7 +70,7 @@
 
 			<div class="col-md-6">
 				<div class="section-header">
-					<h2 class="title">Achizitii realizate</h2>
+					<center><h2 class="title">Realizate</h2></center>
 				</div>
 					<p>1.<br>2.<br>3.<br></p>	
 			</div>
