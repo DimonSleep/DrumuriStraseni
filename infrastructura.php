@@ -54,7 +54,7 @@
 						</div>
 						<!-- blog tags -->
 						<div class="blog-content">
-							<h3>href="Anexa drumurilor deservite de S. A. Drumuri-Strășeni"</h3>
+							<h3>Anexa drumurilor deservite de S. A. Drumuri-Strășeni</h3>
 							<p>Anexa drumurilor deservite de S. A. Drumuri-Strășeni<br><a href="Anexa drumurilor deservite de S. A. Drumuri-Strășeni.pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:20px;color:red"><font style="color: #008BC9;">Anexa.pdf</font></i></a>.</p>
 						</div>
 					</div>

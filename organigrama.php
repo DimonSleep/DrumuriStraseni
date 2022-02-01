@@ -43,7 +43,8 @@
 				<main id="main" class="col-md-9">
 					<div class="blog">
 						<div class="blog-img">
-							<a href="Organigrama.pdf" target="_blank"><img class="img-responsive" src="./img/ORG.jpg" alt=""></a>
+							<a href="Organigrama.pdf" target="_blank"><img class="img-responsive" src="./img/Org.jpg" alt=""></a>
+
 						</div>
 							<div class="blog-content">
 								<!--  -->
