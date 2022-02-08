@@ -85,7 +85,7 @@
 				<div class="section-header">
 					<h2 class="title">Felicitare</h2>
 				</div>
-				<p> Felicitare cu ziua de nastere Domnului mecanic a domnului mecanic<br>
+				<p> Felicitare cu ziua de nastere Domnului mecanic <br>
 				al districtului Strășeni dl.Teritiuc Anatolie!
 				30.01.2022.
 				</p>
